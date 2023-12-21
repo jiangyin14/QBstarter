@@ -37,16 +37,11 @@ _✨ 集成的QQ机器人启动器，内含插件系统。此项目由 *[GUPPY�
 ## 简介
 
 QBstarter 是集成的QQ机器人启动器，内含插件系统。你可以通过这个项目一键启动和配置QQ机器人，快速上手QQ机器人。
+这个仓库分支内存放着用于调试http接口的web前端，如果你是用户，你应该找不到有用的信息。但如果你是想对项目做出贡献的开发者，我们欢迎。PRs Welcomed.
 
 ## 下载
 
-请从 [GUPPY 官网](https://www.guppy.ltd) 下载最新版本的 QBstarter.
-
-你也可以在 [GitHub Releases](https://github.com/xufuyu/QBstarter/releases) 中下载最新版本的 QBstarter.
-
-虽然并不强制, 但仍建议通过 GUPPY 官网下载启动器.修改
-
-* 注：GUPPY是QBstarter背后的运营团队。
+本项目使用 Git 进行版本管理，请自行克隆仓库，如果你连克隆仓库都不会，那你还是歇歇吧。
 
 ## 开源协议
 
@@ -64,7 +59,6 @@ QBstarter 是集成的QQ机器人启动器，内含插件系统。你可以通�
 
 如果您想提交一个 Pull Request, 必须遵守如下要求:
 
-* IDE: PyCharm / Visual Studio (Blend) 2019/2022
-* 环境：Windows
-* 编译器:内核：Python10.2；UI：.NET Framework 4.7及以上
+* IDE: Apifox == any / Postman == any
+* 环境：Windows / macOS (Darwin)
 
